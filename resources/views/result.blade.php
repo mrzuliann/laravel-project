@@ -18,7 +18,7 @@
                             <h3>No Urut : {{ $daftar }}</h3>
                         </div>
                         <p class="has-text-grey">
-                            Konfirmasi pendaftaran akan dikirimkan via SMS.
+                            Konfirmasi pendaftaran akan dikirimkan lewat SMS.
                         </p>
                         <p class="has-text-grey">
                             * Anda akan dilayani pada tanggal {{ $ftgl }}. Perkiraan dilayani pukul 10.00 WIB. Dimohon datang sebelum waktu pelayanan. Antrian ini tidak dapat digunakan apabila anda datang lebih dari 15 menit dari waktu perkiraan pelayanan.
